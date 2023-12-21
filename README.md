@@ -1,38 +1,23 @@
-# FuelPHP
+# Overview
+This is a simple project management system with basic functions:
 
-* Version: 1.9 [under development]
-* [Website](https://fuelphp.com/)
-* [Release Documentation](https://fuelphp.com/docs)
-* [Release API browser](https://fuelphp.com/api)
-* [Development branch Documentation](https://fuelphp.com/dev-docs)
-* [Development branch API browser](https://fuelphp.com/dev-api)
-* [Support Forum](https://forums.fuelphp.com) for comments, discussion and community support
+- Display a list of projects
 
-## Description
+![projectList](https://github.com/NhiCao/to-do-list-fuelphp/assets/27496909/15e72ccf-210d-41e7-b608-3df2a0e6f9b6)
 
-FuelPHP is a fast, lightweight PHP 5.4+ framework. In an age where frameworks are a dime a dozen, we believe that FuelPHP will stand out in the crowd. It will do this by combining all the things you love about the great frameworks out there, while getting rid of the bad.
+- View project details
 
-FuelPHP is fully PHP 7 compatible.
+![projectDetail](https://github.com/NhiCao/to-do-list-fuelphp/assets/27496909/adfc3e8d-ddb9-4abf-8b61-873a304b4b63)
 
-## More information
+- Create a new project
 
-For more detailed information, see the [development wiki](https://github.com/fuelphp/fuelphp/wiki).
+![ProjectCreate](https://github.com/NhiCao/to-do-list-fuelphp/assets/27496909/094de39e-feb7-4197-a288-767d776e4651)
 
-## Development Team
+- Edit a project
 
-* Harro Verton - Project Manager, Developer ([http://wanwizard.eu/](http://wanwizard.eu/))
-* Steve West - Core Developer, ORM
-* Márk Sági-Kazár - Developer
+![projectEdit](https://github.com/NhiCao/to-do-list-fuelphp/assets/27496909/ef6b3fcb-395d-47af-81a3-1bbd296ae931)
 
-### Want to join?
+- Delete a project
 
-The FuelPHP development team is always looking for new team members, who are willing to help lift the framework to the next level, and have the commitment to not only produce awesome code, but also great documentation, and support to our users.
+![projectDelete](https://github.com/NhiCao/to-do-list-fuelphp/assets/27496909/35d93699-c2c2-431e-b2cf-b901c7273512)
 
-You can not apply for membership. Start by sending in pull-requests, work on outstanding feature requests or bugs, and become active in the #fuelphp IRC channel. If your skills are up to scratch, we will notice you, and will ask you to become a team member.
-
-### Alumni
-
-* Frank de Jonge - Developer ([http://frenky.net/](http://frenky.net/))
-* Jelmer Schreuder - Developer ([http://jelmerschreuder.nl/](http://jelmerschreuder.nl/))
-* Phil Sturgeon - Developer ([http://philsturgeon.co.uk](http://philsturgeon.co.uk))
-* Dan Horrigan - Founder, Developer ([http://dhorrigan.com](http://dhorrigan.com))
